@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner/neuro-lens-xai-banner.svg" alt="NeuroLens-XAI banner" width="100%" />
-</p>
 
 <h1 align="center">NeuroLens-XAI</h1>
 
@@ -56,15 +53,6 @@ The repository is designed to bridge **paper-grade reproducibility** and **real-
 - transparent visual explanations with Grad-CAM++ and saliency maps,
 - robustness and cross-dataset evaluation,
 - and an interactive Gradio-based demo workflow.
-
-<p align="center">
-  <img src="assets/figures/teaser-overview.png" alt="Teaser overview placeholder" width="90%" />
-</p>
-
-<p align="center">
-  <em>Placeholder: teaser figure showing the MRI input, model pipeline, explanation heatmaps, and demo interface.</em>
-</p>
-
 ---
 
 ## Highlights
@@ -122,13 +110,7 @@ flowchart LR
     E --> I[Deployment<br/>Gradio / Hugging Face]
 ```
 
-<p align="center">
-  <img src="assets/figures/pipeline-overview.png" alt="Pipeline overview placeholder" width="92%" />
-</p>
 
-<p align="center">
-  <em>Placeholder: repository pipeline visual inspired by the paper workflow figure.</em>
-</p>
 
 ---
 
@@ -327,44 +309,6 @@ Although SE-EfficientNetB3 is the strongest model in this study, this repository
 
 ---
 
-## Visualization
-
-### Explainability outputs
-
-<p align="center">
-  <img src="assets/figures/xai-grid.png" alt="Grad-CAM and saliency map placeholder" width="88%" />
-</p>
-
-<p align="center">
-  <em>Placeholder: Grad-CAM++ and saliency map examples across tumor classes.</em>
-</p>
-
-### Error analysis and diagnostics
-
-<p align="center">
-  <img src="assets/figures/confusion-matrices.png" alt="Confusion matrix placeholder" width="88%" />
-</p>
-
-<p align="center">
-  <img src="assets/figures/roc-pr-confidence.png" alt="ROC PR confidence placeholder" width="88%" />
-</p>
-
-<p align="center">
-  <em>Placeholder: confusion matrices, ROC/PR curves, and confidence distribution visualizations.</em>
-</p>
-
-### Demo preview
-
-<p align="center">
-  <img src="assets/animations/demo-preview.gif" alt="Demo preview placeholder" width="92%" />
-</p>
-
-<p align="center">
-  <em>Placeholder: demo GIF showing MRI upload, class prediction, and Grad-CAM overlay.</em>
-</p>
-
----
-
 ## Use cases / applications
 
 - Research benchmarking for interpretable medical imaging models
@@ -456,8 +400,8 @@ Please retain attribution for any reused figures, assets, or dataset references.
 
 For repository maintenance, collaboration, or technical discussion:
 
-- Maintainer: `Your Lab / Research Group`
-- Email: `your.email@institution.edu`
+- Maintainer: `Md. Tamim Hasan Saykat`
+- Email: `2022-1-60-289@std.ewubd.edu`
 - Issues: GitHub Issues
 - Discussions: GitHub Discussions
 
